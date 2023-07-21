@@ -35,7 +35,7 @@ trabalhos :
    - usa : Platane/snk@master
     id : cobra-gif
     com:
-      github_user_name : SaraTaschcek
+      github_user_name : SaraTascheck
       svg_out_path : dist/github-contribution-grid-snake.svg
 
    - usa : crazy-max/ghaction-github-page@v2.1.3
