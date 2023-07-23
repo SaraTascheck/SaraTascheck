@@ -2,10 +2,12 @@
 
 
 ##
+
+| Me chamo Sara tenho 19 anos e estudo Analise e Desenvolvimento na Unisociesc
+
 - 🎓Estudo : Analise e Desenvolvimento de SoftWear
 - ✨Pronomes: Ela/Dela
 
-| Me chamo Sara tenho 19 anos e estudo Analise e Desenvolvimento na Unisociesc
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
