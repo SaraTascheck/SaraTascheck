@@ -22,6 +22,6 @@
 </div>
 
 
-  ![Snake animation](https://github.com/ellen2121/SaraTascheck/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SaraTascheck/SaraTascheck/blob/output/github-contribution-grid-snake.svg)
 
 </div>
