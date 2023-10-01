@@ -3,7 +3,7 @@
 
 ##
 
-| Me chamo Sara tenho 19 anos e estudo Analise e Desenvolvimento na Unisociesc
+| Me chamo Sara tenho 19 anos e curso Analise e Desenvolvimento na Unisociesc
 
 - 🎓Cursando: 2º Semestre em Analise e Desenvolvimento de SoftWear
 - 📍Unisociesc - Blumenau/SC
