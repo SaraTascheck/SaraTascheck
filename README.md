@@ -3,11 +3,12 @@
 
 ##
 
-| Eu me chamo Sara tenho 19 anos e curso Analise e Desenvolvimento na Unisociesc
+| Eu me chamo Sara tenho 19 anos e curso Analise e Desenvolvimento
 
-- 🎓Cursando: 2º Semestre em Analise e Desenvolvimento de SoftWear
-- 📍Unisociesc - Blumenau/SC
-- ✨Pronomes: Ela/Dela
+- 🎓 Cursando: 2º Semestre em Analise e Desenvolvimento de SoftWear
+- 📍 Unisociesc - Blumenau/SC
+- 🏆 Linguagens: Java; MySQL e Banco de Dados
+- 🎯 Nivel: Intermediário
 
 
 <div style="display: inline_block"><br>
