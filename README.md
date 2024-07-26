@@ -3,10 +3,9 @@
 
 ##
 
-| Eu me chamo Sara tenho 19 anos e curso Analise e Desenvolvimento
+| Eu me chamo Sara tenho 20 anos e curso Analise e Desenvolvimento
 
-- 🎓 Cursando: 2º Semestre em Analise e Desenvolvimento de SoftWear
-- 📍 Unisociesc - Blumenau/SC
+- 🎓 Analise e Desenvolimento - IFSC
 - 🏆 Linguagens: Java; MySQL e Banco de Dados
 - 🎯 Nivel: Intermediário
 
