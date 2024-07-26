@@ -3,10 +3,10 @@
 
 ##
 
-| Eu me chamo Sara tenho 20 anos e curso Analise e Desenvolvimento
+| Eu me chamo Sara tenho 20 anos 
 
 - 🎓 Analise e Desenvolimento - IFSC
-- 🏆 Linguagens: Java; MySQL e Banco de Dados
+- 🏆 Java; MySQL e Banco de Dados
 - 🎯 Nivel: Intermediário
 
 
